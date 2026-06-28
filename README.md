@@ -91,7 +91,7 @@ A modern, full-featured healthcare management system built with ASP.NET Core MVC
 ## 📸 Screenshots & Demo
 
 ### Login
-![Login Page](screenshots/login.png)
+![Login Page](screenshot_login.png)
 *User authentication screen*
 
 ### Admin Dashboard
@@ -140,4 +140,9 @@ HealthCare/
 | Doctor | View patients, manage appointments, create prescriptions & records |
 | Patient | Book appointments, view own records and prescriptions |
 
+👨‍💻 Developed By
+
+Praveen Anthati
+
+Senior .NET Developer
 
