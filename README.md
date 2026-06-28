@@ -5,7 +5,7 @@ A modern, full-featured healthcare management system built with ASP.NET Core MVC
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-MVC-512BD4?style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
 
 ### Application Walkthrough
 ![Healthcare System Demo](screenshots/demo.webp)
@@ -91,7 +91,7 @@ A modern, full-featured healthcare management system built with ASP.NET Core MVC
 ## 📸 Screenshots & Demo
 
 ### Login
-![Login Page](screenshot_login.png)
+![Login Page](screenshots/login.png)
 *User authentication screen*
 
 ### Admin Dashboard
